@@ -48,7 +48,5 @@ char imie[] = "Sebastian";
 	int main()
 {
 		printf("%s\n", imie);
-
-
-		return 0;
+		printf("lol");
 }
